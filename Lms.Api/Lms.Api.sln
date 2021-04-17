@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lms.Api", "Lms.Api.csproj", "{FD89EC5D-9A0D-45EA-BC23-AC2B04ED91BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lms.Core", "..\Lms.Core\Lms.Core.csproj", "{67AE8C90-176B-4E53-90C9-CDE9D8FCB2DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lms.Data", "..\Lms.Data\Lms.Data.csproj", "{54F13418-1958-4D88-A37A-ABE730258A23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD89EC5D-9A0D-45EA-BC23-AC2B04ED91BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD89EC5D-9A0D-45EA-BC23-AC2B04ED91BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD89EC5D-9A0D-45EA-BC23-AC2B04ED91BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD89EC5D-9A0D-45EA-BC23-AC2B04ED91BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67AE8C90-176B-4E53-90C9-CDE9D8FCB2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67AE8C90-176B-4E53-90C9-CDE9D8FCB2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67AE8C90-176B-4E53-90C9-CDE9D8FCB2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67AE8C90-176B-4E53-90C9-CDE9D8FCB2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54F13418-1958-4D88-A37A-ABE730258A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F13418-1958-4D88-A37A-ABE730258A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F13418-1958-4D88-A37A-ABE730258A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F13418-1958-4D88-A37A-ABE730258A23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A44AC2E1-0667-434E-8BCA-4D5975179882}
+	EndGlobalSection
+EndGlobal
